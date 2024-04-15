@@ -1,0 +1,44 @@
+#main-div, #places-suggestion-div {
+    width: fit-content;
+    margin: 10vh auto 0;
+    box-shadow: 1px -1px 20px rgba(0, 0, 0, 0.5);
+    background-color: white !important;
+}
+
+#food-name {
+    text-align: center;
+}
+
+#button-div, #img-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#button {
+    margin: 5px;
+}
+
+#map-div {
+    margin: 10vh auto 0;
+    height: 400px;
+    width: 25%;
+}
+
+#places-suggestion-div {
+    margin: 1vh auto 0;
+    padding: 1%;
+    border: 1px black solid;
+}
+
+#place-info {
+
+}
+
+#place-url {
+
+}
+
+html, body {
+    background-color: #FFF455 !important;
+}
